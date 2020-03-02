@@ -6,7 +6,7 @@ Get Booking List
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Get a list of bookings.
+Get a list of bookings and quotes.
 {% endapi-method-description %}
 
 {% api-method-spec %}
