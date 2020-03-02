@@ -6,7 +6,7 @@ Get Booking List for Account
 {% endapi-method-summary %}
 
 {% api-method-description %}
-A collection of bookings for the account that the user has access \(as opposed to bookings for a single venue in an account for get Bookings List\)
+A collection of bookings and quotes for the account that the user has access \(as opposed to bookings for a single venue in an account for get Bookings List\)
 {% endapi-method-description %}
 
 {% api-method-spec %}
