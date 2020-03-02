@@ -12,7 +12,7 @@ Get Booking
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Get the details of a specific booking to which the user has access.
+Get the details of a specific booking or quote to which the user has access.
 {% endapi-method-description %}
 
 {% api-method-spec %}
